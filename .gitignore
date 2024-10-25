@@ -1,0 +1,8 @@
+# Project exclude paths
+/.gradle/
+/Application/build/
+/Application/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/
+/Application/build/intermediates/javac/debugAndroidTest/compileDebugAndroidTestJavaWithJavac/classes/
+/Wearable/build/
+/Wearable/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/
+/Wearable/build/intermediates/javac/debugAndroidTest/compileDebugAndroidTestJavaWithJavac/classes/
